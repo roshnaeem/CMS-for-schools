@@ -1,0 +1,21 @@
+Student Instructions:
+1.Student will first sign up, then they will be added to teachers list.
+2.The teacher that will add the specific student can only add comments skills or score and mark attendance.
+3. when student sign up or login , they will go to student page.
+4. if teacher has not added anything about them, empty table will appear.
+5. when student sign up, empty table will appear beacuse after signuing up, they will appear in teachers list. from where teacher will add them in their list.
+6. they will login to check their status.
+
+
+
+Teacher instruction
+1.When teacher will sign up  a list of students will be shown to him/her, so he can add students to his list. 
+2.If student is already added, website will inform teacher that this student has already added by this teacher.
+3.When teacher will login, it teacher page will be shown, teacher can add , edit and delete
+4.Teacher can mark attendance , on attendance page.
+5.In edit attendance page, he/she can unmark the attendace and mark again in attendance page.
+6.When teacher will login, he will directly go to teacher page.
+7.students adding option will be available to teacher only when he sign up.
+
+
+
