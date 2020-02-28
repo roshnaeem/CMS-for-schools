@@ -82,6 +82,7 @@ a.att:hover, a:active {
 		echo '<img  src="https://image.flaticon.com/icons/png/512/306/306473.png"  class="avatar"></td><td colspan="3" ><h1>'.$row['Email'].'</h1><br>';
 	}
 	echo '<table border="1">';
+	//The basic data of students added by teacher
 	echo '<tr><th> SKILLS </th><th colspan="2"> COMMENTS </th><th> SCORES </th></tr>';
 	echo '<tr><td>';
 
