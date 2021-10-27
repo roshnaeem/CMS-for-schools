@@ -12,6 +12,7 @@ Wamp server
 <li>PHP</li>
 <li>SQL</li><li>HTML</li>
 <li>CSS</li>
+<li>JS</li>  
 </ul>
 
 # Website Pages
