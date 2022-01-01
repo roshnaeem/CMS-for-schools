@@ -2,7 +2,7 @@
 Content Management System built in PHP and JavaScript for schools and educational institutions 
 
 # Getting Started
-Run wamp server and clone the repository to "www" directory of wamp. Enter the link "localhost\signup.php" in your broswer and start exploring the website.
+Run wamp server and clone the repository to "www" directory of wamp. Enter the link `localhost\signup.php` in your broswer and start exploring the website.
 
 # Pre requisities
 Wamp server
