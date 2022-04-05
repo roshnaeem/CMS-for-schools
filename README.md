@@ -49,7 +49,7 @@ Wamp server
 <table>
 <tr>
 <td><img src= "images/student.JPG" width="500"></td>
-<td width="500">Student Page View</td>
+<td width="500">Rosheen - Khadija Website</td>
 
 </tr>
 
